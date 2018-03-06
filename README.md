@@ -24,7 +24,7 @@ src是所有的源代码。
 
 # 支持平台
 
-TerminalEmulator基于JavaSE1.8。如果想要运行PredictFlow推荐下载Java编译器，并且需要io、sql等包的支持。同时，需要注意处理文件和网页的格式。
+TerminalEmulator基于JavaSE1.8。如果想要运行PredictFlow推荐下载Java编译器，并且需要pio、mysql-connector等包的支持。同时，需要注意处理文件和网页的格式。
 
 # 疑问
 
